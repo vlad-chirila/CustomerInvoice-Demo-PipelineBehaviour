@@ -1,0 +1,12 @@
+C:\Users\vlad.chirila\Documents\playground\mediatr\DemoLibrary\bin\Debug\net5.0\DemoLibrary.deps.json
+C:\Users\vlad.chirila\Documents\playground\mediatr\DemoLibrary\bin\Debug\net5.0\DemoLibrary.dll
+C:\Users\vlad.chirila\Documents\playground\mediatr\DemoLibrary\bin\Debug\net5.0\DemoLibrary.pdb
+C:\Users\vlad.chirila\Documents\playground\mediatr\DemoLibrary\obj\Debug\net5.0\DemoLibrary.csproj.AssemblyReference.cache
+C:\Users\vlad.chirila\Documents\playground\mediatr\DemoLibrary\obj\Debug\net5.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlad.chirila\Documents\playground\mediatr\DemoLibrary\obj\Debug\net5.0\DemoLibrary.AssemblyInfoInputs.cache
+C:\Users\vlad.chirila\Documents\playground\mediatr\DemoLibrary\obj\Debug\net5.0\DemoLibrary.AssemblyInfo.cs
+C:\Users\vlad.chirila\Documents\playground\mediatr\DemoLibrary\obj\Debug\net5.0\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\vlad.chirila\Documents\playground\mediatr\DemoLibrary\obj\Debug\net5.0\DemoLibrary.dll
+C:\Users\vlad.chirila\Documents\playground\mediatr\DemoLibrary\obj\Debug\net5.0\refint\DemoLibrary.dll
+C:\Users\vlad.chirila\Documents\playground\mediatr\DemoLibrary\obj\Debug\net5.0\DemoLibrary.pdb
+C:\Users\vlad.chirila\Documents\playground\mediatr\DemoLibrary\obj\Debug\net5.0\ref\DemoLibrary.dll

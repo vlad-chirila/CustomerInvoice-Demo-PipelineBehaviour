@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "BYfb4ZSIoP98mFzmBE6ryiz6PTennvsoBfNqO1/DJT16niWiCbfDM+XkEeVGxCkmn2BMRRbQVk5/BfphLLLD5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vlad.chirila\\Documents\\playground\\mediatr\\DemoApi\\DemoApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vlad.chirila\\.nuget\\packages\\fluentvalidation\\8.6.0\\fluentvalidation.8.6.0.nupkg.sha512",
+    "C:\\Users\\vlad.chirila\\.nuget\\packages\\fluentvalidation.aspnetcore\\8.6.0\\fluentvalidation.aspnetcore.8.6.0.nupkg.sha512",
+    "C:\\Users\\vlad.chirila\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\8.6.0\\fluentvalidation.dependencyinjectionextensions.8.6.0.nupkg.sha512",
+    "C:\\Users\\vlad.chirila\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\vlad.chirila\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\vlad.chirila\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\vlad.chirila\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\vlad.chirila\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\vlad.chirila\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\vlad.chirila\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\vlad.chirila\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\vlad.chirila\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\vlad.chirila\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512",
+    "C:\\Users\\vlad.chirila\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
